@@ -6,5 +6,5 @@ Dit is de Github pagina voor SKC Studentenvolleybal in Leiden, bijgehouden door 
 
 Documentatie: https://docs.google.com/document/d/1W92TH3RahOmmpdmSL5qyU_yqjYiOejJhgF1UBojXyxM/ 
 
-Website: skcvolleybal.nl
+Website: https://www.skcvolleybal.nl
 Contact: webcie@skcvolleybal.nl
